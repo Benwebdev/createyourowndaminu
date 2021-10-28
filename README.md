@@ -1,7 +1,7 @@
 # createyourowndaminu
 
 
-```python
+```lua
 /**
  *Submitted for verification at Etherscan.io on 2021-05-26
 */
